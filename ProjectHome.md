@@ -1,0 +1,1 @@
+Project SABARI is an initiative by the staff and students of Anna University to develop software tools for the differently abled. The main intention behind SABARI is to help individuals with extreme motor disabilities to operate computers. This idea was inspired from elocutor, the software used by Prof.Stephen Hawking for his communication.
